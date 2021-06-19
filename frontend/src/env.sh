@@ -1,0 +1,1 @@
+export API_URL= wget -qO- http://ipecho.net/plain | xargs echo
