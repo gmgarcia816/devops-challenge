@@ -3,4 +3,4 @@ sudo apt install nodejs
 npm install --prefix ./app/backend
 npm install --prefix ./app/frontend
 npm run build --prefix ./app/frontend
-npm install -g serve --prefix ./app/frontend
+sudo npm install -g serve
