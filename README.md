@@ -2,6 +2,7 @@
 This repository contains a React frontend, and an Express backend that the frontend connects to.
 
 # Required Tools
+	GITHUB
 	AWS EC2
 	NodeJS
 	NPM
@@ -18,3 +19,8 @@ Open directory /devops-challenge and run the following commands
   2. sudo bash start.sh (this runs startback.sh(backend server), startdev.sh(development server), startprod.sh(production server)
 
 Now you should be able to view your application via your public ip (Example http://yourpublicip/:3000(developement) or http://yourpublicip/:5000(production)
+
+# URL
+
+Dev http://18.118.196.132:3000/
+Prod http://18.118.196.132:5000/
