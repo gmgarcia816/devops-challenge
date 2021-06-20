@@ -2,7 +2,10 @@
 This repository contains a React frontend, and an Express backend that the frontend connects to.
 
 # Required Tools
+
+
   AWS EC2
+	
   NodeJS
   NPM
 
