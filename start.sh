@@ -4,3 +4,4 @@ cd
 cd devops-challenge
 cd frontend
 (npm run start&)
+sup yo
