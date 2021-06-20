@@ -1,3 +1,3 @@
-sudo bash startb.sh
-sudo bash startd.sh
-sudo bash startp.sh
+sudo bash startback.sh
+sudo bash startdev.sh
+sudo bash startprod.sh
