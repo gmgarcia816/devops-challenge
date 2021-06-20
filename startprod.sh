@@ -1,3 +1,3 @@
 cd app
 cd frontend
-serve -s build
+(serve -s build&)
