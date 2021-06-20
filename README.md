@@ -2,9 +2,9 @@
 This repository contains a React frontend, and an Express backend that the frontend connects to.
 
 # Required Tools
-  AWS EC2
-  NodeJS
-  NPM
+	AWS EC2
+	NodeJS
+	NPM
 
 # Setup instructions
 Create an EC2 instance running Ubuntu with ports 8080,3000,5000 open
